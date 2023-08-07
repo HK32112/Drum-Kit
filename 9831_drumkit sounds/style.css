@@ -1,0 +1,51 @@
+body {
+    background-color: #4dd2ff;
+}
+
+#Kick {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+#Snare {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+#Tom {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+#Ride {
+    float: right;
+    margin-right: 360px; /* Adjust the value as needed */
+}
+
+#Openhat {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+#Clap {
+    float: right;
+    margin-right: 150px; /* Adjust the value as needed */
+}
+
+#Boom {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+#Tink {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+#Hihat {
+    float: left;
+    margin-right: 10px; /* Adjust the value as needed */
+}
+
+
+
