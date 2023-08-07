@@ -19,7 +19,7 @@ body {
 
 #Ride {
     float: right;
-    margin-right: 360px; /* Adjust the value as needed */
+    margin-right: 400px; /* Adjust the value as needed */
 }
 
 #Openhat {
@@ -29,7 +29,7 @@ body {
 
 #Clap {
     float: right;
-    margin-right: 150px; /* Adjust the value as needed */
+    margin-right: 200px; /* Adjust the value as needed */
 }
 
 #Boom {
