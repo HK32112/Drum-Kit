@@ -4,27 +4,27 @@ body {
 
 #Kick {
     float: left;
-    margin-right: 10px; /* Adjust the value as needed */
+    margin-right: 10px; 
 }
 
 #Snare {
     float: left;
-    margin-right: 10px; /* Adjust the value as needed */
+    margin-right: 10px; 
 }
 
 #Tom {
     float: left;
-    margin-right: 10px; /* Adjust the value as needed */
+    margin-right: 10px; 
 }
 
 #Ride {
     float: right;
-    margin-right: 400px; /* Adjust the value as needed */
+    margin-right: 400px; 
 }
 
 #Openhat {
     float: left;
-    margin-right: 10px; /* Adjust the value as needed */
+    margin-right: 10px; 
 }
 
 #Clap {
@@ -44,7 +44,7 @@ body {
 
 #Hihat {
     float: left;
-    margin-right: 10px; /* Adjust the value as needed */
+    margin-right: 10px; 
 }
 
 
